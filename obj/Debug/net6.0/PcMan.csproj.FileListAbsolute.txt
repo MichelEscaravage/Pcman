@@ -1,0 +1,59 @@
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.csproj.AssemblyReference.cache
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.AssemblyInfoInputs.cache
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.AssemblyInfo.cs
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.csproj.CoreCompileInputs.cache
+C:\Git\PcMan - inheritance\PcMan\bin\Debug\net6.0\PcMan.exe
+C:\Git\PcMan - inheritance\PcMan\bin\Debug\net6.0\PcMan.deps.json
+C:\Git\PcMan - inheritance\PcMan\bin\Debug\net6.0\PcMan.runtimeconfig.json
+C:\Git\PcMan - inheritance\PcMan\bin\Debug\net6.0\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan\bin\Debug\net6.0\PcMan.pdb
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\refint\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.pdb
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\PcMan.genruntimeconfig.cache
+C:\Git\PcMan - inheritance\PcMan\obj\Debug\net6.0\ref\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan - inheritance\bin\Debug\net6.0\PcMan.exe
+C:\Git\PcMan - inheritance\PcMan - inheritance\bin\Debug\net6.0\PcMan.deps.json
+C:\Git\PcMan - inheritance\PcMan - inheritance\bin\Debug\net6.0\PcMan.runtimeconfig.json
+C:\Git\PcMan - inheritance\PcMan - inheritance\bin\Debug\net6.0\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan - inheritance\bin\Debug\net6.0\PcMan.pdb
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.csproj.AssemblyReference.cache
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.AssemblyInfoInputs.cache
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.AssemblyInfo.cs
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.csproj.CoreCompileInputs.cache
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\refint\PcMan.dll
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.pdb
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\PcMan.genruntimeconfig.cache
+C:\Git\PcMan - inheritance\PcMan - inheritance\obj\Debug\net6.0\ref\PcMan.dll
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.exe
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.deps.json
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.runtimeconfig.json
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.dll
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.pdb
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.csproj.AssemblyReference.cache
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.AssemblyInfoInputs.cache
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.AssemblyInfo.cs
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.csproj.CoreCompileInputs.cache
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.dll
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\refint\PcMan.dll
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.pdb
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.genruntimeconfig.cache
+C:\Users\wjhul\Curio\OE ICT SD - Onderwijs\1 Onderwijs en blokken in detail\Blok C\Moduleboekjes\CSD-III\Uitwerkingen\wk4o2 - PcMan\obj\Debug\net6.0\ref\PcMan.dll
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.exe
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.deps.json
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.runtimeconfig.json
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.dll
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\bin\Debug\net6.0\PcMan.pdb
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.AssemblyInfoInputs.cache
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.AssemblyInfo.cs
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.dll
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\refint\PcMan.dll
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.pdb
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\PcMan.genruntimeconfig.cache
+C:\xampp\htdocs\projects\C#\Blok C\wk4o2 - PcMan\obj\Debug\net6.0\ref\PcMan.dll
